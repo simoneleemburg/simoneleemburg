@@ -1,30 +1,32 @@
-- 👋 Hi, I’m @simoneleemburg
+## 👋 Hi, I’m @simoneleemburg
 
 I work as Solution Architect @ ZorgDomein in the Netherlands!
 
-- 👀 I’m interested in ...
+## 👀 I’m interested in ...
 
 A lot of different things!
 
-IT related: Software Architecture / DDD / Scala / Agile teams & software development
-Other nerdy stuff: world building / tinkering with roleplaying game
-BIG sport lover: HIIT workouts / yoga / dancing / running
-Creative stuff: writing / dancing / drawing
+- IT related: Software Architecture / DDD / Scala / Agile teams & software development
+- Other nerdy stuff: world building / fantasy / tinkering with roleplaying game / medieval&renaissance history
+- BIG sport lover: HIIT workouts / yoga / dancing / running
+- Creative stuff: writing / dancing / drawing
 
 Food!
 
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
-Dancing with heels; especially floorwork
-Hiphop dancing
+- Dancing with heels; especially floorwork
 
-- 💞️ I’m looking to collaborate on ...
+- Hiphop dancing
 
+## 💞️ I’m looking to collaborate on ...
 
+No specific projects at the moment, although I am interested in collaborating with anyone who is enthousiastic about 
 
-- 📫 How to reach me ...
+## 📫 How to reach me ...
 
 Linkedin: www.linkedin.com/in/simone-leemburg
+
 Instagram: @simmie_g
 
 <!---
