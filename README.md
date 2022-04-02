@@ -21,7 +21,7 @@ Food!
 
 ## 💞️ I’m looking to collaborate on ...
 
-No specific projects at the moment, although I am interested in collaborating with anyone who is enthousiastic about 
+No specific projects at the moment, although I am interested in collaborating with anyone who is enthousiastic about writing/digital artwork/visual editing, to collab on worldbuilding projects.
 
 ## 📫 How to reach me ...
 
